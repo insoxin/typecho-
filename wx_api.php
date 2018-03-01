@@ -248,7 +248,7 @@ class wechatCallbackapiTest
 
         }else {
 
-        	echo "你好！欢迎进入【<?php $this->options->title() ?>】微信公众号";
+        	echo "您好！欢迎进入【<?php $this->options->title() ?>】微信公众号";
 
         	exit;
 
